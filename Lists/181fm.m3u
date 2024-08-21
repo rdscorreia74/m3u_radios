@@ -1,0 +1,38 @@
+#EXTM3U
+#PLAYLIST:Online radio: 181.fm
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="80's Radio" radio="true", 181.fm Awesome 80's - 128 kbit/s
+http://listen.livestreamingservice.com/181-awesome80s_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="80's Radio" radio="true", 181.fm Lite 80's - 128 kbit/s
+http://listen.livestreamingservice.com/181-lite80s_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="80's Radio" radio="true", 181.fm 80's Hairband - 128 kbit/s
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="90's Radio" radio="true", 181.fm Star 90's - 128 kbit/s
+http://listen.livestreamingservice.com/181-star90s_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="90's Radio" radio="true", 181.fm Lite 90's - 128 kbit/s
+http://listen.livestreamingservice.com/181-lite90s_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Pop Radio" radio="true", 181.fm UK top 40 - 128 kbit/s
+http://listen.livestreamingservice.com/181-uktop40_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Pop Radio" radio="true", 181.fm The Heart (Love Songs) - 128 kbit/s
+http://listen.livestreamingservice.com/181-heart_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Rock Radio" radio="true", 181.fm The Eagle (Classic) - 128 kbit/s
+http://listen.livestreamingservice.com/181-eagle_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Rock Radio" radio="true", 181.fm Rock 181 - 128 kbit/s
+http://listen.livestreamingservice.com/181-rock_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Rock Radio" radio="true", 181.fm Rock 40 (Rock & Roll) - 128 kbit/s
+http://listen.livestreamingservice.com/181-rock40_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Rock Radio" radio="true", 181.fm 80's Hairband - 128 kbit/s
+http://listen.livestreamingservice.com/181-hairband_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Rock Radio" radio="true", 181.fm The Rock! (Hard Rock) - 128 kbit/s
+http://listen.livestreamingservice.com/181-hardrock_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Classics - 128 kbit/s
+http://listen.livestreamingservice.com/181-xtraditional_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Oldies - 128 kbit/s
+http://listen.livestreamingservice.com/181-xoldies_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Highway - 128 kbit/s
+http://listen.livestreamingservice.com/181-xhighway_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Soundtracks - 128 kbit/s
+http://listen.livestreamingservice.com/181-xsoundtrax_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Rock - 128 kbit/s
+http://listen.livestreamingservice.com/181-xrock_128k.mp3
+#EXTINF:-1 tvg-logo="https://www.181.fm/favicon.ico" group-title="Xmas Radio" radio="true", 181.fm Xmas Kids - 128 kbit/s
+http://listen.livestreamingservice.com/181-xkids_128k.mp3
